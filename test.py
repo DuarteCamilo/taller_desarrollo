@@ -1,7 +1,7 @@
 #test
 a = 0
 b = 5 
-
+c=7
 y=5 
 
 X = a + b * y
